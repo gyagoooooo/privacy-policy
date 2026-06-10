@@ -34,4 +34,4 @@ dkssud(이하 "확장 프로그램")는 사용자의 개인정보를 수집, 저
 
 ## 문의
 
-https://github.com/gyagoooooo/privacy/issues
+https://github.com/gyagoooooo/privacy-policy/issues
